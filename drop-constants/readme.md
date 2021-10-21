@@ -1,0 +1,2 @@
+# Variance Threshold
+> We should care about the constant values in our project. Actually, Whenever we use the "constant" term, We talk about values with 0 Variance. We almost always drop them with sklearn.variance_threshold
